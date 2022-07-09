@@ -2,9 +2,9 @@
 
 by M. Attala R.
 
-In this project, we describe analysis using the EDA method and visualization of spatial data related to the spread of Covid 19 in the United States in 2020 using python.
+>In this project, we describe analysis using the EDA method and visualization of spatial data related to the spread of Covid 19 in the United States in 2020 using python.
 
-The dataset used is a dataset of people from various regions (states) in the United States, and the features used are also related to society and covid 19.
+>The dataset used is a dataset of people from various regions (states) in the United States, and the features used are also related to society and covid 19.
 
 Here's a quick look at the data set features
 
